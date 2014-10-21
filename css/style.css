@@ -569,7 +569,8 @@ footer {
 }
 
 .simple {
-    padding: 104px 0 89px
+    padding: 104px 0 89px;
+    background: #fafafa;
 }
 
 .simple-content {
