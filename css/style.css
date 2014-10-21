@@ -411,7 +411,7 @@ input:focus::-webkit-input-placeholder {
 
 header {
     padding: 104px 0;
-    background: url(../images/header.jpg) no-repeat 50% 50%;
+    background: url(../images/homecover.png) no-repeat 50% 50%;
     font: 24px/36px "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
     -moz-background-size: cover;
@@ -897,7 +897,7 @@ footer {
 
 /* ===[ Responsive all mobile sizes ]=== */
 
-@media (max-width: 979px) { 
+@media (max-width: 979px) {
   .newsletter-form {
       min-width: 0
   }
@@ -1041,7 +1041,7 @@ footer {
 
 /* ===[ Responsive just mobile portrait ]=== */
 
-@media (max-width: 479px) { 
+@media (max-width: 479px) {
   header .buttons-wrapper .button.button-stripe {
       margin-left: 0
   }
@@ -1052,7 +1052,7 @@ footer {
   }
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) { 
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .comments .tab-prev,
   .comments .tab-next,
   .button-download:after,
